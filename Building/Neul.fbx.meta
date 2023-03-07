@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 9c9fe8daafc4e2345841ff30d19340d3
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3237655018469100250
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action"
+  - first:
+      74: -8654794507705074415
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action.001"
+  - first:
+      74: -9021339709747875696
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action.002"
+  - first:
+      74: -6007603802422921923
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action.003"
+  - first:
+      74: 5625754346412491457
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action.004"
+  - first:
+      74: 1381807723853532683
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action.005"
+  - first:
+      74: -6770515189634631734
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action.006"
+  - first:
+      74: 7060880087924169717
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action.007"
+  - first:
+      74: 2460371668749857257
+    second: "\uD14D\uC2A4\uD2B8|\uD14D\uC2A4\uD2B8Action.008"
+  - first:
+      74: -972135558065442487
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action"
+  - first:
+      74: 4204198516603589804
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action.001"
+  - first:
+      74: 4861675348797186163
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action.002"
+  - first:
+      74: 8529083387584632046
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action.003"
+  - first:
+      74: 9145130402562690856
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action.004"
+  - first:
+      74: 6913566899331869470
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action.005"
+  - first:
+      74: -6281248773059818409
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action.006"
+  - first:
+      74: -332818358429170748
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action.007"
+  - first:
+      74: -3713918175576332811
+    second: "\uD14D\uC2A4\uD2B8.001|\uD14D\uC2A4\uD2B8Action.008"
+  - first:
+      74: -8638159631227670496
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action"
+  - first:
+      74: -5411873460097547104
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action.001"
+  - first:
+      74: -1177931054938698956
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action.002"
+  - first:
+      74: 3433892914920967396
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action.003"
+  - first:
+      74: -4836251992766667237
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action.004"
+  - first:
+      74: 379381571790719632
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action.005"
+  - first:
+      74: 5066211140963419256
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action.006"
+  - first:
+      74: -8961970921513937601
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action.007"
+  - first:
+      74: 4300754198370029533
+    second: "\uD14D\uC2A4\uD2B8.002|\uD14D\uC2A4\uD2B8Action.008"
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
